@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ACDCD05D-71B5-4F6D-8F36-9548AA6B0813"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF2CED0C-5F37-44C1-9AAC-AA82F2795912"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "challenge-03/DetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C5D2D63-5840-4B23-AFC0-2328ED42BDE6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "challenge-03/DetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C57039D-E8B3-4D00-9192-91DF07B2EC25"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "challenge-03/DetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7ADC0D7-EA6A-4D13-BE16-ABCECD89317B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "challenge-03/DetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "DetailsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E7ADC0D7-EA6A-4D13-BE16-ABCECD89317B - 593ba82637856279"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "challenge_03.DetailsViewController.titulo.getter : Swift.String"
+                  moduleName = "challenge-03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmacedop/Documents/challenge-03/challenge-03/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "103">
+               </Location>
+               <Location
+                  uuid = "E7ADC0D7-EA6A-4D13-BE16-ABCECD89317B - c7614d1dbeac5265"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "challenge_03.DetailsViewController.titulo.setter : Swift.String"
+                  moduleName = "challenge-03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmacedop/Documents/challenge-03/challenge-03/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "E7ADC0D7-EA6A-4D13-BE16-ABCECD89317B - 7cf64cdbd95b67a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "challenge_03.DetailsViewController.titulo.modify : Swift.String"
+                  moduleName = "challenge-03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmacedop/Documents/challenge-03/challenge-03/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "E7ADC0D7-EA6A-4D13-BE16-ABCECD89317B - 47fcf5f7e1efaa92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "challenge_03.DetailsViewController.titulo.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "challenge-03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmacedop/Documents/challenge-03/challenge-03/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "E7ADC0D7-EA6A-4D13-BE16-ABCECD89317B - 7a3780df0f64690e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "challenge_03.DetailsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; challenge_03.DetailsViewController"
+                  moduleName = "challenge-03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmacedop/Documents/challenge-03/challenge-03/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "355">
+               </Location>
+               <Location
+                  uuid = "E7ADC0D7-EA6A-4D13-BE16-ABCECD89317B - 518f49f432db6b30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "challenge_03.DetailsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;challenge_03.DetailsViewController&gt;"
+                  moduleName = "challenge-03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmacedop/Documents/challenge-03/challenge-03/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "312">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D264CA4A-68A6-4499-B979-BD9EBD235DA4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "challenge-03/DetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "DetailsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D264CA4A-68A6-4499-B979-BD9EBD235DA4 - 29bfdb3115c3a967"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "challenge_03.DetailsViewController.prioridad.getter : Swift.String"
+                  moduleName = "challenge-03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmacedop/Documents/challenge-03/challenge-03/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "103">
+               </Location>
+               <Location
+                  uuid = "D264CA4A-68A6-4499-B979-BD9EBD235DA4 - fb8e8e8b14ed8a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "challenge_03.DetailsViewController.prioridad.setter : Swift.String"
+                  moduleName = "challenge-03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmacedop/Documents/challenge-03/challenge-03/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "D264CA4A-68A6-4499-B979-BD9EBD235DA4 - 633c71860b164d78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "challenge_03.DetailsViewController.prioridad.modify : Swift.String"
+                  moduleName = "challenge-03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmacedop/Documents/challenge-03/challenge-03/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "D264CA4A-68A6-4499-B979-BD9EBD235DA4 - 5e596d9f304bfde9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "challenge_03.DetailsViewController.prioridad.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "challenge-03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmacedop/Documents/challenge-03/challenge-03/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "D264CA4A-68A6-4499-B979-BD9EBD235DA4 - 7a3780df0f6469cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "challenge_03.DetailsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; challenge_03.DetailsViewController"
+                  moduleName = "challenge-03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmacedop/Documents/challenge-03/challenge-03/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "471">
+               </Location>
+               <Location
+                  uuid = "D264CA4A-68A6-4499-B979-BD9EBD235DA4 - 518f49f432db6bf2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "challenge_03.DetailsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;challenge_03.DetailsViewController&gt;"
+                  moduleName = "challenge-03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmacedop/Documents/challenge-03/challenge-03/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44874CB4-87CE-404C-AAC9-865F2302570F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "challenge-03/DetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "DetailsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "44874CB4-87CE-404C-AAC9-865F2302570F - 2e6ccbe95b1c3873"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "challenge_03.DetailsViewController.descripcion.getter : Swift.String"
+                  moduleName = "challenge-03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmacedop/Documents/challenge-03/challenge-03/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "103">
+               </Location>
+               <Location
+                  uuid = "44874CB4-87CE-404C-AAC9-865F2302570F - a6baf61e539428bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "challenge_03.DetailsViewController.descripcion.setter : Swift.String"
+                  moduleName = "challenge-03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmacedop/Documents/challenge-03/challenge-03/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "44874CB4-87CE-404C-AAC9-865F2302570F - 36a20eae207ecdbe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "challenge_03.DetailsViewController.descripcion.modify : Swift.String"
+                  moduleName = "challenge-03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmacedop/Documents/challenge-03/challenge-03/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "44874CB4-87CE-404C-AAC9-865F2302570F - c3e75c22e7f72b9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "challenge_03.DetailsViewController.descripcion.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "challenge-03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmacedop/Documents/challenge-03/challenge-03/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "44874CB4-87CE-404C-AAC9-865F2302570F - 7a3780df0f64692d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "challenge_03.DetailsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; challenge_03.DetailsViewController"
+                  moduleName = "challenge-03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmacedop/Documents/challenge-03/challenge-03/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "413">
+               </Location>
+               <Location
+                  uuid = "44874CB4-87CE-404C-AAC9-865F2302570F - 518f49f432db6b13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "challenge_03.DetailsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;challenge_03.DetailsViewController&gt;"
+                  moduleName = "challenge-03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmacedop/Documents/challenge-03/challenge-03/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "370">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BCE0E437-B819-4182-9719-2B22663F4E28"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "challenge-03/DetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "DetailsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "BCE0E437-B819-4182-9719-2B22663F4E28 - e7497dd5cf2adc03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "challenge_03.DetailsViewController.categoria.getter : Swift.String"
+                  moduleName = "challenge-03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmacedop/Documents/challenge-03/challenge-03/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "103">
+               </Location>
+               <Location
+                  uuid = "BCE0E437-B819-4182-9719-2B22663F4E28 - dd520d8d6ab50c47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "challenge_03.DetailsViewController.categoria.setter : Swift.String"
+                  moduleName = "challenge-03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmacedop/Documents/challenge-03/challenge-03/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "BCE0E437-B819-4182-9719-2B22663F4E28 - 30d79aaaed7e80f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "challenge_03.DetailsViewController.categoria.modify : Swift.String"
+                  moduleName = "challenge-03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmacedop/Documents/challenge-03/challenge-03/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "BCE0E437-B819-4182-9719-2B22663F4E28 - 3ff1cf024e5f9dd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "challenge_03.DetailsViewController.categoria.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "challenge-03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmacedop/Documents/challenge-03/challenge-03/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "BCE0E437-B819-4182-9719-2B22663F4E28 - 7a3780df0f6469f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "challenge_03.DetailsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; challenge_03.DetailsViewController"
+                  moduleName = "challenge-03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmacedop/Documents/challenge-03/challenge-03/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "529">
+               </Location>
+               <Location
+                  uuid = "BCE0E437-B819-4182-9719-2B22663F4E28 - 518f49f432db6bcd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "challenge_03.DetailsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;challenge_03.DetailsViewController&gt;"
+                  moduleName = "challenge-03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jmacedop/Documents/challenge-03/challenge-03/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "486">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
